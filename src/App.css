@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.choice-card {
+  margin: 40px 0;
+  padding: 20px;
+  border-radius: 25px;
+  color: #97a75e;
+  font-size: 30px;
+  text-transform: uppercase;
+  background-color: #fefae0;
+  border: 5px dashed #ccd5ae;
+}
+
+.red {
+  background-color: red;
+}
+
+.white {
+  background-color: white;
+}
+
+.blue {
+  background-color: blue;
+}
